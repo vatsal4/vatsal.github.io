@@ -1,12 +1,13 @@
 body{
-	margin: 0;
-	padding: 0;
+	
 	background-image: url(blur.jpg);
-	background-size:cover;
-	height: 100%;
-	overflow: hidden;
-	background-position: center;
-    
+	
+    height: 100%; 
+
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 	
 	
